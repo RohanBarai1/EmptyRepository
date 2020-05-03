@@ -1,3 +1,5 @@
 This is Sample 1
 
 Changing Sample 1 in Master
+
+Added new line
